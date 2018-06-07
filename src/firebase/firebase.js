@@ -1,6 +1,6 @@
 //Making a seperate fb dir so that any other functionality / components that need this only can access
 //it through a folder. And from that folder that should only access one file that contains all of it
-//thats why we have a index.js file 
+//thats why we have a index.js file
 
 import firebase from 'firebase/app';
 import 'firebase/auth';
